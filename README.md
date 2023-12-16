@@ -8,12 +8,12 @@ Cryptic Strike is a powerful command-line tool that allows you to retrieve Whois
 
 1. Open the Command Prompt or PowerShell.
 2. Make sure you have Python installed on your system. You can check by running the following command:
-   ````
+   ```
    python --version
    ```
    If Python is not installed, download and install it from the official Python website: https://www.python.org/downloads/
 3. Once Python is installed, run the following commands to install the required libraries:
-   ````
+   ```
    pip install requests pyfiglet python-whois beautifulsoup4
    ```
 4. Download the Cryptic Strike source code from the repository: [CrypticStrike](https://github.com/your-repository-link)
@@ -21,7 +21,7 @@ Cryptic Strike is a powerful command-line tool that allows you to retrieve Whois
 6. Open the extracted directory and locate the `CrypticStrike.py` file.
 7. Open a Command Prompt or PowerShell window and navigate to the directory where `CrypticStrike.py` is located.
 8. Run the following command to start Cryptic Strike:
-   ````
+   ```
    python CrypticStrike.py
    ```
 
@@ -29,12 +29,12 @@ Cryptic Strike is a powerful command-line tool that allows you to retrieve Whois
 
 1. Open a Terminal.
 2. Make sure you have Python installed on your system. You can check by running the following command:
-   ````
+   ```
    python --version
    ```
    If Python is not installed, install it using the package manager for your distribution (e.g., `apt`, `brew`, `yum`).
 3. Once Python is installed, run the following commands to install the required libraries:
-   ````
+   ```
    pip install requests pyfiglet python-whois beautifulsoup4
    ```
 4. Download the Cryptic Strike source code from the repository: [CrypticStrike](https://github.com/VIRUS-X-001/CrypticStrike)
@@ -42,7 +42,7 @@ Cryptic Strike is a powerful command-line tool that allows you to retrieve Whois
 6. Open the extracted directory and locate the `CrypticStrike.py` file.
 7. Open a Terminal window and navigate to the directory where `CrypticStrike.py` is located.
 8. Run the following command to start Cryptic Strike:
-   ````
+   ```
    python CrypticStrike.py
    ```
 
